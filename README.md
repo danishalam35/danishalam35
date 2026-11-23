@@ -2,7 +2,7 @@
 
 ### DevOps Engineer | Cloud & Infrastructure Automation | Linux | AWS | Kubernetes | CI/CD
 
-I am a DevOps and Cloud enthusiast with **4+ years of overall IT experience**, focused on Linux administration, cloud infrastructure, automation, containerization, and continuous integration and delivery.
+I am a DevOps and Cloud enthusiast with **2+ years of overall IT experience**, focused on Linux administration, cloud infrastructure, automation, containerization, and continuous integration and delivery.
 
 I enjoy building automation solutions, managing infrastructure, troubleshooting complex system issues, and continuously improving my DevOps skills through hands-on projects.
 
@@ -10,7 +10,7 @@ I enjoy building automation solutions, managing infrastructure, troubleshooting 
 
 ## 👨‍💻 About Me
 
-- 💼 3+ years of overall IT experience in technology and infrastructure environments.
+- 💼 4+ years of overall IT experience in technology and infrastructure environments.
 - ☁️ Working with AWS cloud services and cloud infrastructure.
 - 🐧 Hands-on experience with Linux administration, troubleshooting, and system management.
 - 🐳 Practicing containerization using Docker and orchestration using Kubernetes.
@@ -24,8 +24,9 @@ I enjoy building automation solutions, managing infrastructure, troubleshooting 
 
 ## 🏅 Certifications
 
-- AWS Cloud Certification
+- CKA Certification
 - ETCP Cloud Certification
+
 
 ---
 
